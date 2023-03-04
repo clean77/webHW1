@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;  /* 去掉網頁主體的預設外邊距 */
+}
+.tv {
+    position: absolute;
+    width: 650px;
+    right: 350px;
+}
+h2 {
+    position: absolute;
+    top: 415px;
+    left: 400px;
+    color: #8C8C8C;
+}
+h3 {
+    position: absolute;
+    top: 465px;
+    left: 400px;
+    color: #969696;
+}
+.wood {
+    position: absolute;
+    width: 100px;
+    top: 435px;
+    right: 475px;
+
+}
